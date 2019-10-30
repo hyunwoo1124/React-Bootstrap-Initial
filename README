@@ -1,0 +1,11 @@
+Make sure you have the most updated npm packages installed before beginning. (Node.js) 
+For our tutorial we will be using npm to download dependencies 
+
+1. npm init react-app <YourAppNameWithoutCapitalLetters>  
+    NOTE: If you are running in Linux make sure you write the script in Sudo mode not user mode
+2. npm install react-router-dom #  Allows user to change pages
+3. npm install react-boostrap bootstrap # download react-bootstrap and bootstrap # 
+4. Copy the style sheet from https://react-bootstrap.github.io/getting-started/introduction  and paste them on your first index.html doc
+5. npm start  # start the project.
+
+
